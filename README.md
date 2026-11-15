@@ -1,6 +1,6 @@
 # Jàng — Réviser, réussir le BAC et le BFEM
 
-Application web de révision pour les élèves du Sénégal. Contenus du programme
+Application web de révision avec IA integré pour les élèves du Sénégal. Contenus du programme
 (Mathématiques, Physique-Chimie, SVT), fiches imprimables, exercices corrigés,
 quiz, assistant IA et bloc-notes — pensés d'abord pour le téléphone.
 
